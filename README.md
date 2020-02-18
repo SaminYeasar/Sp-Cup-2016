@@ -1,5 +1,7 @@
 # Sp-Cup-2016
 
+Details available at Sigport: https://sigport.org/documents/enf-based-grid-classification-system-identifying-region-origin-digital-recordings-team
+
 Using "Machine Learning" & additional "novel proposed feature" we proved an drastic accuracy in identifying grid around the world using ENF signal. My team "Fourier's Underlings" stood 11th in "IEEE SP Cup 2016" . We had bad accuracy in the competition due to inefficient ENF extraction but later on we found published code [1] and used with available recording data online to test our proposed features efficiency and that happens to provide impressive result in classification accuracy
 
 Abstract: The Electric Network Frequency (ENF) is the supply frequency of power distribution networks, which can be captured by multimedia signals recorded near electrical activities. It normally fluctuates slightly over time from its nominal value of 50 Hz/60 Hz. The ENF remain consistent across the entire power grid. This has led to the emergence of multiple forensic application like estimating the recording location and validating the time of recording. Recently an ENF based Machine Learning system was proposed which infers the region of recording from the power grids ENF signal extracted from the recorded multimedia signal, with the help of relevant features.
